@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Sahil Mifud Khan
+I am Sahil Mufid Khan
 <!--
 **Raphtaliaa/Raphtaliaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
